@@ -1,0 +1,1810 @@
+I"3d<div class="publications">
+
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">NeurIPS</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="ming2022mcm" class="col-sm-8">
+    
+      <div class="title">Delving into OOD Detection with Vision-Language Representations</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ziyang Cai,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jiuxiang Gu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yiyou Sun,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Wei Li,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Yixuan Li
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Neural Information Processing Systems (NeurIPS)</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">NeurIPS</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="du2022siren" class="col-sm-8">
+    
+      <div class="title">SIREN: Shaping Representations for Detecting Out-of-distribution Objects</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Xuefeng Du,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Gabriel Gozum,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Yixuan Li
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Neural Information Processing Systems (NeurIPS)</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">EMNLP</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="dinh2022align" class="col-sm-8">
+    
+      <div class="title">Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Tuan Dinh,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jy-yong Sohn,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Shashank Rajput,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Timothy Ossowski,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Junjie Hu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Dimitris Papailiopoulos,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Kangwook Lee
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Empirical Methods in Natural Language Processing (EMNLP Findings)</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://arxiv.org/abs/2205.11616" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">EMNLP</abbr>
+    
+  
+
+  
+
+  
+    <award class="badge">Oral</award>
+  
+
+  
+    <award class="badge">Award</award>
+  
+
+  
+  </div>
+
+  <div id="zhao2022hdiv" class="col-sm-8">
+    
+      <div class="title">Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Tuan Dinh,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jy-yong Sohn,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Shashank Rajput,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Timothy Ossowski,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Junjie Hu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Dimitris Papailiopoulos,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Kangwook Lee
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings)</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+        <strong><note>Outstanding Paper Award [Top 0.15%]</note></strong>
+      
+      </div>
+      <div class="periodical">
+      
+        <strong><note>Oral Presentation [Top 1.6%]</note></strong>
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://github.com/a7b23/H-Divergence" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+    
+      <a href="https://openreview.net/pdf?id=KB5onONJIAU" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+      <a href="https://iclr.cc/virtual/2022/oral/6696" class="btn btn-sm z-depth-0" role="button">Video</a>
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">ICLR</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="meng2022sdedit" class="col-sm-8">
+    
+      <div class="title">SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Chenlin Meng,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yutong He,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yang Song,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jiaming Song,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jiajun Wu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jun-Yan Zhu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Stefano Ermon
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In International Conference on Learning Representations (ICLR)</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://github.com/ermongroup/SDEdit" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+      <a href="https://sde-image-editing.github.io/" class="btn btn-sm z-depth-0" role="button">Website</a>
+    
+    
+      <a href="https://arxiv.org/abs/2108.01073" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">arXiv</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="ming2022cider" class="col-sm-8">
+    
+      <div class="title">CIDER: Exploiting Hyperspherical Embeddings for Out-of-Distribution Detection</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yiyou Sun,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ousmane Dia,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Yixuan Li
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv preprint</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://arxiv.org/abs/2203.04450" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">NeurIPS</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="he2021spatial" class="col-sm-8">
+    
+      <div class="title">Spatial-Temporal Super-Resolution of Satellite Imagery via Conditional Pixel Synthesis</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yutong He,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Dingjie Wang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Nicholas Lai,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  William Zhang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Chenlin Meng,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Marshall Burke,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  David B. Lobell,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Stefano Ermon
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Neural Information Processing Systems (NeurIPS)</em>
+      
+      
+        2021
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://github.com/KellyYutongHe/satellite-pixel-synthesis-pytorch" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+      <a href="https://satellite-pixel-synthesis.github.io/" class="btn btn-sm z-depth-0" role="button">Website</a>
+    
+    
+      <a href="https://arxiv.org/pdf/2106.11485" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+      <a href="https://neurips.cc/virtual/2021/poster/26864" class="btn btn-sm z-depth-0" role="button">Video</a>
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">NeurIPS</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+    <wksp class="badge">Workshop</wksp>
+  
+  </div>
+
+  <div id="he2021tracking" class="col-sm-8">
+    
+      <div class="title">Tracking Urbanization in Developing Regions with Remote Sensing Spatial-Temporal Super-Resolution</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yutong He*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  William Zhang*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Chenlin Meng,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Marshall Burke,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  David B. Lobell,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Stefano Ermon
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Neural Information Processing Systems (NeurIPS) workshop on Machine Learning for the Developing World (ML4D)</em>
+      
+      
+        2021
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://arxiv.org/pdf/2204.01736" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">Alexa Prize</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="chi2021alexa" class="col-sm-8">
+    
+      <div class="title">Neural Neural Everywhere: Controlled Generation Meets Scaffolded and Structured Dialogue</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ethan A. Chi,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Caleb Chiam,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Trenton Chang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Swee Kiat Lim,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Chetanya Rastogi,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Alexander Iya-bor,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yutong He,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Hari Sowrirajan,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Avanika Narayan,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jillian Tang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Haojun Li,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ashwin Paranjape,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Christopher D. Manning
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Alexa Prize Proceedings</em>
+      
+      
+        2021
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://github.com/stanfordnlp/chirpycardinal/" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
+    
+    
+    
+      <a href="https://stanfordnlp.github.io/chirpycardinal/" class="btn btn-sm z-depth-0" role="button">Website</a>
+    
+    
+      <a href="https://d7qzviu3xw2xc.cloudfront.net/alexa/alexaprize/docs/sgc4/Stanford-Chirpy-Cardinal.pdf" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">CVPR</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="wei2020finegrained" class="col-sm-8">
+    
+      <div class="title">Fine-grained Image-to-Image Transformation towards Visual Recognition</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Wei Xiong,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yutong He,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yixuan Zhang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Wenhan Luo,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Lin Ma,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and  Jiebo Luo
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In International Conference on Computer Vision and Pattern Recognition (CVPR)</em>
+      
+      
+        2020
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://wxiong.me/finegrain/" class="btn btn-sm z-depth-0" role="button">Website</a>
+    
+    
+      <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiong_Fine-Grained_Image-to-Image_Transformation_Towards_Visual_Recognition_CVPR_2020_paper.pdf" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+      <a href="https://crossminds.ai/video/fine-grained-image-to-image-transformation-towards-visual-recognition-5f6e7431d81cf36f1a8e31ec/" class="btn btn-sm z-depth-0" role="button">Video</a>
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li></ol>
+
+
+</div>
+:ET
