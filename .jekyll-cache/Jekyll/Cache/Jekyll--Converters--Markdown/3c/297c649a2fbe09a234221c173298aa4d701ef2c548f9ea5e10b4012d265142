@@ -1,4 +1,4 @@
-I"ï=<div class="publications">
+I"WG<div class="publications">
 
 
   <h2 class="year">2022</h2>
@@ -274,6 +274,150 @@
     
     
     
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">NeurIPS</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="shi2022nuerm" class="col-sm-8">
+    
+      <div class="title">Domain Generalization with Nuclear Norm Regularization</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Zhenmei Shi*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming*</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ying Fan*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Frederic Sala,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Yingyu Liang
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Neural Information Processing Systems (NeurIPSâ€™W) DistShift Workshop</em>
+      
+      
+        2022
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://openreview.net/pdf?id=mCKNHWWLd1" class="btn btn-sm z-depth-0" role="button">Paper</a>
     
     
     </div>
@@ -577,6 +721,8 @@
     
     
     
+      <a href="https://github.com/deeplearning-wisc/poem" class="btn btn-sm z-depth-0" role="button">Code</a>
+    
     
     
     
@@ -704,6 +850,8 @@
     
     
     
+    
+      <a href="https://github.com/deeplearning-wisc/knn-ood" class="btn btn-sm z-depth-0" role="button">Code</a>
     
     
     
@@ -928,6 +1076,8 @@
     
     
     
+    
+      <a href="https://github.com/deeplearning-wisc/Spurious_OOD" class="btn btn-sm z-depth-0" role="button">Code</a>
     
     
     
@@ -1158,6 +1308,8 @@
     
     
     
+    
+      <a href="https://github.com/yingfan-bot/mbpsrl" class="btn btn-sm z-depth-0" role="button">Code</a>
     
     
     
