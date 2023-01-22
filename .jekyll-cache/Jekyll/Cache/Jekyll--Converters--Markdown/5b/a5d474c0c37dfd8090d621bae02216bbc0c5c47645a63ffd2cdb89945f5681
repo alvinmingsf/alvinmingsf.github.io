@@ -1,8 +1,18 @@
-I"(<div class="news">
+I"F<div class="news">
   
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       
+      
+        <tr>
+          <th scope="row">01/2023</th>
+          <td>
+            
+              Our papers How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection? is accepted by <em>ICLR 2023</em>. :tada:
+
+            
+          </td>
+        </tr>
       
         <tr>
           <th scope="row">10/2022</th>
@@ -28,7 +38,7 @@
           <th scope="row">05/2022</th>
           <td>
             
-              Start summer internship as a research scientist at Adobe Inc working on out-of-distribution robustness for document understanding and pre-training.
+              Start summer internship as a research scientist at Adobe Inc working on out-of-distribution robustness for multi-modal document understanding and pre-training.
 
             
           </td>
