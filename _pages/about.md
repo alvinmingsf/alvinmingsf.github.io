@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-I am a Ph.D. student in the Computer Sciences Department at the University of Wisconsin-Madison. I am lucky to be advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>, and have collaborated with <a href="https://kangwooklee.com/">Prof. Kangwook Lee</a>. 
+I am a Ph.D. student in the Computer Sciences Department at the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real-world? 
 
-I’m broadly interested in trustworthy machine learning and representation learning. A core question that intrigues me is: How can we design efficient algorithms and promote fundamental understanding to ensure that machine learning models are reliable in the real world? My prior research explores various aspects such as the impact of spurious correlation, sample efficiency, and multi-modality.
+
 
 <!-- Research topics that I currently focus on include: out-of-distribution detection, domain generalization, and representation learning. -->
 
