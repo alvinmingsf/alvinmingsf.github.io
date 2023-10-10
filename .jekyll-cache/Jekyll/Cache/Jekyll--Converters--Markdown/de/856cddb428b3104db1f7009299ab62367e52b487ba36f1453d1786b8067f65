@@ -1,8 +1,249 @@
-I"©O<div class="publications">
+I",\<div class="publications">
 
 
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">EMNLP</abbr>
+    
+  
+
+  
+
+  
+
+  
+
+  
+  </div>
+
+  <div id="gu2023align" class="col-sm-8">
+    
+      <div class="title">A Critical Analysis of Document Out-of-Distribution Detection
+  </div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming*</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jiuxiang Gu*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yi Zhou,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Jason Kuen,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Vlad I Morariu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Handong Zhao,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Nikolaos Barmpalios Ruiyi Zhang,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Anqi Liu,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Yixuan Li,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Tong Sun,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Ani Nenkova
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Empirical Methods in Natural Language Processing (EMNLP Findings)</em>
+      
+      
+        2023
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://openreview.net/forum?id=iAeDYlEXrM" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
   <div class="col-sm-2 abbr">
   
     

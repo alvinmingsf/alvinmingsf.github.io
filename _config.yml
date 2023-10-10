@@ -51,7 +51,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: alvinmingwisc
 gitlab_username: # your GitLab user name
 twitter_username: # electronickale
-linkedin_username: # yutong-he-b7608b12b
 scholar_userid: fJPNm-wAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -196,7 +195,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
+enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
