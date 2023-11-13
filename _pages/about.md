@@ -18,6 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a Ph.D. student in the Computer Sciences Department at the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real-world? 
 
+**<span style="color: #DAA520;">Looking for full time research positions starting from 2024 on multi-modality, AI safety, and reasoning :)</span>**
 
 
 <!-- Research topics that I currently focus on include: out-of-distribution detection, domain generalization, and representation learning. -->
