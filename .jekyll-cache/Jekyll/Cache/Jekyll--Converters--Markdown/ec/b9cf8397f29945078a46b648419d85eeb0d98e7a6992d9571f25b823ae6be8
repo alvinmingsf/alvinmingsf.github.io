@@ -1,8 +1,154 @@
-I"°\<div class="publications">
+I"'d<div class="publications">
 
 
   <h2 class="year">2023</h2>
   <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">CPAL</abbr>
+    
+  
+
+  
+
+  
+    <award class="badge">Oral</award>
+  
+
+  
+
+  
+  </div>
+
+  <div id="shi2023nuerm" class="col-sm-8">
+    
+      <div class="title">Domain Generalization via Nuclear Norm Regularization</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Zhenmei Shi*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                <b><u>Yifei Ming*</u></b>,
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Ying Fan*,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  Frederic Sala,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+
+          
+            
+              
+                
+                  and Yingyu Liang
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Conference on Parsimony and Learning (CPAL)</em>
+      
+      
+        2023
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+      <div class="periodical">
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      <a href="" class="btn btn-sm z-depth-0" role="button">Paper</a>
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+
+    <!-- Hidden bibtex block -->
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
   <div class="col-sm-2 abbr">
   
     
