@@ -1,8 +1,18 @@
-I"E<div class="news">
+I"W	<div class="news">
   
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       
+      
+        <tr>
+          <th scope="row">01/2024</th>
+          <td>
+            
+              Our paper Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models is accepted by <em>ICML 2024</em>. :tada:
+
+            
+          </td>
+        </tr>
       
         <tr>
           <th scope="row">01/2024</th>
