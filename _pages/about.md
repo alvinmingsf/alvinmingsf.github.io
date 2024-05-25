@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: <b>Contact:</b> alvinming [at] cs [dot] wisc [dot] edu
+description: <b>Contact:</b> yifei [dot] ming [at] salesforce [dot] com 
 
 profile:
   align: right
   image: photo.jpg
   <!-- address: >
     <p> University of Wisconsin-Madison </p>
-    <p> ✉️ alvinming@cs.wisc.edu</p> -->
+    <p> ✉️ yifei.ming@salesforce.com</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
