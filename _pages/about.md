@@ -16,12 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-I am a 5th-year Ph.D. student in the Computer Sciences Department at the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world? 
-
-**<span style="color: #DAA520;">I will join Salesforce AI as a full-time Research Scientist this summer :) </span>**
+Hi! I am a research scientist at Salesforce AI Research. I obtained my Ph.D. in Computer Science from the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world? 
 
 
-<!-- Research topics that I currently focus on include: out-of-distribution detection, domain generalization, and representation learning. -->
+
+
+<!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 
 
 <!-- <b>Contact:</b> kellyyhe [at] stanford.edu -->
