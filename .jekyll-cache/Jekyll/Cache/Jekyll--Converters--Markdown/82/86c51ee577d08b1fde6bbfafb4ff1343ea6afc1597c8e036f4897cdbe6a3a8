@@ -1,4 +1,11 @@
-I"<p>Hi! I am a research scientist at Salesforce AI Research. I obtained my Ph.D. in Computer Science from the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world?</p>
+I"1<p>Hi! I am a research scientist at Salesforce AI Research. I obtained my Ph.D. in Computer Science from the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world?</p>
+
+<p>Research topics that I currently focus on include:</p>
+<ul>
+  <li>Improve reasoning and reduce hallucination of contextual LLM, VLM, and Agents.</li>
+  <li>Enable LLMs to generate and handle long contexts efficiently and effectively.</li>
+  <li>Obtain domain expert language models.</li>
+</ul>
 
 <!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 

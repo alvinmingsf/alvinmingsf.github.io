@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: <b>Contact:</b> yifei [dot] ming [at] salesforce [dot] com 
+description: <b>Contact:</b> alvinming5 [at] gmail [dot] com 
 
 profile:
   align: right
   image: photo.jpg
   <!-- address: >
-    <p> University of Wisconsin-Madison </p>
-    <p> ✉️ yifei.ming@salesforce.com</p> -->
+    <p> Salesforce AI Research </p>
+    <p> ✉️ alvinming5@gmail.com</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,6 +17,11 @@ social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
 Hi! I am a research scientist at Salesforce AI Research. I obtained my Ph.D. in Computer Science from the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Prof. Sharon Li</a>. I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world? 
+
+Research topics that I currently focus on: 
+- Improve reasoning of contextual LLM, RAG, VLM, and Agents.
+- Enable LLMs to generate and handle long contexts effectively.
+- Obtain domain expert language models.
 
 
 

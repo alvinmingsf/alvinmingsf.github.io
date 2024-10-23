@@ -8,7 +8,7 @@ middle_name:
 last_name: Ming
 email: alvinming5@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -48,9 +48,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: alvinmingwisc
+github_username: alvinmingsf
 gitlab_username: # your GitLab user name
-twitter_username: # electronickale
+twitter_username: ming5_alvin
 scholar_userid: fJPNm-wAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
