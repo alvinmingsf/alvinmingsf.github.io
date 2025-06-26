@@ -16,10 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a research scientist at Salesforce AI Research. I am broadly interested in trustworthy AI that aligns with human values, especially in the era of foundation models. Topics that I currently focus on: 
-- Understand and improve reasoning of contextual LLMs and Agents.
-- Obtain domain expert language models.
-- Enable LLMs to handle long contexts effectively.
+Hi! I am a research scientist at Salesforce AI Research. I am broadly interested in trustworthy AI that aligns with human values, especially in the era of agentic systems powered by LLMs. Topics that I currently focus on: 
+- Understand what LLM-based systems can and cannot do—through world simulations, sandbox environments, challenging benchmarks, and evaluation protocols.
+- Design and build effective and trustworthy agentic systems—agents that can use tools, process long contexts, conduct deep research, and engage in multi-turn interactions. 
 
 I obtained my CS Ph.D. in 2024 from the University of Wisconsin-Madison advised by <a href="https://pages.cs.wisc.edu/~sharonli/index.html">Sharon Li</a>. My thesis covers a spectrum of algorithmic developments for reliable foundation models in the open world.
 <!-- I am broadly interested in reliable machine learning that aligns with human values, especially in the era of multi-modal foundation models. A central theme that continually resonates with me is: How can we foster innovative algorithms and deeper understanding to ensure that our machine learning systems perform reliably in the real world?  -->
