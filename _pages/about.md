@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a research scientist at Salesforce AI Research. I am broadly interested in trustworthy AI that aligns with human values, and agentic systems powered by large language models (LLM). For example: 
+Hi! I am a research scientist at Salesforce AI Research. I am broadly interested in trustworthy AI that aligns with human values, and agentic systems powered by large language models (LLM). In particular, 
 - Understand what LLM-based systems can and cannot do—through world simulations, sandbox environments, challenging benchmarks, and evaluation protocols.
 - Design and build effective and trustworthy agentic systems—agents that can use tools, process long contexts, conduct deep research, and engage in multi-turn interactions. 
 
