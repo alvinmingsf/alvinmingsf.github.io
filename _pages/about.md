@@ -16,10 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a research scientist at Salesforce AI Research. I am broadly interested in trustworthy AI that aligns with human values, and agentic systems powered by large language models (LLM). In particular, 
-- Understand what LLM-based systems can and cannot do—through world simulations, sandbox environments, challenging benchmarks, and evaluation protocols.
-- Design and build agentic systems—agents that can use tools, process long contexts, conduct deep research, and engage in multi-turn interactions. 
+Hi! I am a research scientist at Salesforce AI Research. I work on agentic systems built with large language models (LLMs) and trustworthy AI. My current focus include:
 
+- Post-training: training agents for tool use, long-context reasoning, deep research, and multi-turn interaction
+
+- Foundational research: understanding the capabilities and limits of LLM-based systems
+
+- Benchmarks & evaluation: building sandboxes, challenging benchmarks, and scalable evaluation frameworks
 <!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 
 
