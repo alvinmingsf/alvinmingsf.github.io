@@ -22,7 +22,7 @@ Hi! I am a research scientist at Salesforce AI Research. I work on agentic syste
 
 - Foundational research: understanding the capabilities and limits of LLM-based systems
 
-- Benchmarks & evaluation: building sandboxes, challenging benchmarks, and scalable evaluation frameworks
+- Evaluation & inference scaling: building sandboxes, challenging benchmarks, and improving agentic workloads at test time
 <!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 
 
