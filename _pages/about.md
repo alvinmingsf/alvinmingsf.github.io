@@ -6,7 +6,7 @@ description: <b>Contact:</b> alvinming5 [at] gmail [dot] com
 
 profile:
   align: right
-  image: photo.jpg
+  image: photo.png
   <!-- address: >
     <p> Salesforce AI Research </p>
     <p> ✉️ alvinming5@gmail.com</p> -->
