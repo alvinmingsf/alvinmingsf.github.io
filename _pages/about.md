@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a research scientist at Salesforce AI Research. I work on agentic systems built with large language models (LLMs) and trustworthy AI. My current focus include:
+Hi! I am a senior research scientist at Google. I work on agentic systems built with large language models (LLMs) and trustworthy AI. My current focus include:
 
 - Post-training: training agents for tool use, long-context reasoning, deep research, and multi-turn interaction
 
