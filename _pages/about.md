@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a senior research scientist at Google. Currently, I work on:
+Hi! I am a senior research scientist at Google. In the past, I worked on:
 
 - Post-training: training agents for tool use, long-context reasoning, deep research, and multi-turn interaction
 
