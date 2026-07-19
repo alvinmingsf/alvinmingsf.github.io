@@ -6,7 +6,7 @@ description: <b>Contact:</b> alvinming5 [at] gmail [dot] com
 
 profile:
   align: right
-  image: photo.png
+  image: photo_chicago.jpg
   <!-- address: >
     <p> Salesforce AI Research </p>
     <p> ✉️ alvinming5@gmail.com</p> -->
@@ -16,7 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 <!-- content: -->
 ---
-Hi! I am a senior research scientist at <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" style="height: 1em; vertical-align: middle; margin-left: 2px;">. In the past, I worked on:
+Hi! I am a senior research scientist at <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" style="height: 1em; vertical-align: middle; margin-left: 2px;">. I work on research that advances Gemini's agentic capabilities on open-ended, long-horizon, and economically valuable tasks, along with the ecosystem that supports them, such as agent harness, environment scaling, and self-evolution.
+
+In the past, I worked on:
 
 - Post-training: training agents for tool use, long-context reasoning, deep research, and multi-turn interaction
 
@@ -24,6 +26,30 @@ Hi! I am a senior research scientist at <img src="https://upload.wikimedia.org/w
 
 - Evaluation & inference scaling: building sandboxes, challenging benchmarks, and improving agentic workloads at test time 
 
+
+<div style="border-left: 4px solid var(--global-theme-color); background-color: var(--global-code-bg-color); padding: 0.75em 1em; border-radius: 6px; margin: 1.5em 0;" markdown="1">
+I am open to collaborations. We are also hiring self-motivated
+student researchers / research interns. If you are interested in the directions below,
+feel free to reach out.
+</div>
+
+<details markdown="1">
+<summary><b>Research directions</b></summary>
+
+**(1) Self-evolving agent.**
+Agents can self-evolve by learning from past experience, but today's trial-and-error
+process is largely heuristic-driven, time-consuming, prone to overfitting, and poorly supported by existing
+systems. What infrastructure and algorithms can support a continuously evolving
+agentic system?
+
+**(2) Long-horizon agent.**
+Economically valuable tasks often require humans to work for a long time.
+When agents operate at that scale, they tend to fail in ways humans wouldn't (e.g.,
+poorly followed instructions, reward hacking, and context pollution), leading to
+saturating returns. How do we design scalable environments and agent harnesses that
+hold up over long horizons?
+
+</details>
 <!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 
 
