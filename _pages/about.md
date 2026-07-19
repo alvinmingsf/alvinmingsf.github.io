@@ -31,7 +31,6 @@ In the past, I worked on:
 I am open to collaborations. We are also hiring self-motivated
 student researchers / research interns. If you are interested in the directions below,
 feel free to reach out.
-</div>
 
 <details markdown="1">
 <summary><b>Research directions</b></summary>
@@ -50,6 +49,7 @@ saturating returns. How do we design scalable environments and agent harnesses t
 hold up over long horizons?
 
 </details>
+</div>
 <!-- Research topics that I currently focus on include: reliable machine learning, multimodal learning, and large language models. -->
 
 
